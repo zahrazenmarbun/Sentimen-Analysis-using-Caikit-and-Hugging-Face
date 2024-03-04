@@ -11,7 +11,7 @@ Perangkat Lunak :
 
 
 
-<h5 align="center">Nama: **Zahra**</h5>
+<h5 align="left">Nama: Zahra</h5>
 
 <p align="left">
 </p>
